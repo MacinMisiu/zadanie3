@@ -1,0 +1,13 @@
+C:\Users\marci\OneDrive\Pulpit\c#\trzeciezadanie\zadanie_1\zadanie_1\obj\Debug\netcoreapp3.1\zadanie_1.csprojAssemblyReference.cache
+C:\Users\marci\OneDrive\Pulpit\c#\trzeciezadanie\zadanie_1\zadanie_1\obj\Debug\netcoreapp3.1\zadanie_1.AssemblyInfoInputs.cache
+C:\Users\marci\OneDrive\Pulpit\c#\trzeciezadanie\zadanie_1\zadanie_1\obj\Debug\netcoreapp3.1\zadanie_1.AssemblyInfo.cs
+C:\Users\marci\OneDrive\Pulpit\c#\trzeciezadanie\zadanie_1\zadanie_1\obj\Debug\netcoreapp3.1\zadanie_1.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive\Pulpit\c#\trzeciezadanie\zadanie_1\zadanie_1\bin\Debug\netcoreapp3.1\zadanie_1.exe
+C:\Users\marci\OneDrive\Pulpit\c#\trzeciezadanie\zadanie_1\zadanie_1\bin\Debug\netcoreapp3.1\zadanie_1.deps.json
+C:\Users\marci\OneDrive\Pulpit\c#\trzeciezadanie\zadanie_1\zadanie_1\bin\Debug\netcoreapp3.1\zadanie_1.runtimeconfig.json
+C:\Users\marci\OneDrive\Pulpit\c#\trzeciezadanie\zadanie_1\zadanie_1\bin\Debug\netcoreapp3.1\zadanie_1.runtimeconfig.dev.json
+C:\Users\marci\OneDrive\Pulpit\c#\trzeciezadanie\zadanie_1\zadanie_1\bin\Debug\netcoreapp3.1\zadanie_1.dll
+C:\Users\marci\OneDrive\Pulpit\c#\trzeciezadanie\zadanie_1\zadanie_1\bin\Debug\netcoreapp3.1\zadanie_1.pdb
+C:\Users\marci\OneDrive\Pulpit\c#\trzeciezadanie\zadanie_1\zadanie_1\obj\Debug\netcoreapp3.1\zadanie_1.dll
+C:\Users\marci\OneDrive\Pulpit\c#\trzeciezadanie\zadanie_1\zadanie_1\obj\Debug\netcoreapp3.1\zadanie_1.pdb
+C:\Users\marci\OneDrive\Pulpit\c#\trzeciezadanie\zadanie_1\zadanie_1\obj\Debug\netcoreapp3.1\zadanie_1.genruntimeconfig.cache
